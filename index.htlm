@@ -21,5 +21,16 @@
         juridique et informatique.
       </p>
     </section>
+    <section id="competences">
+      <h2>Compétences</h2>
+      <ul>
+        <li>Connaissances en droit</li>
+        <li>Notions en informatique</li>
+        <li>Initiation au HTML et CSS</li>
+        <li>Communication</li>
+        <li>Travail en équipe</li>
+        <li>Capacité d'adaptation</li>
+      </ul>
+    </section>
   </body>
 </html>
