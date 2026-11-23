@@ -21,5 +21,18 @@
         juridique et informatique.
       </p>
     </section>
+    <section id="formations">
+      <h2>Formations</h2>
+      <ul>
+        <li>
+          Licence en Droit -
+          Université d'Abomey-Calavi (UAC)
+        </li>
+        <li>
+          Formation en Informatique -
+          ESGIS
+        </li>
+      </ul>
+    </section>
   </body>
 </html>
