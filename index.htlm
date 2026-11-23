@@ -11,5 +11,15 @@
       <h1>Inda KOUDEDJI</h1>
       <h2>Étudiante en Droit et Informatique</h2>
     </header>
+    <section id="description">
+      <h2>À propos de moi</h2>
+      <p>
+        Je suis une étudiante passionnée par le droit,
+        les technologies numériques et l'innovation.
+        Curieuse, ambitieuse et motivée, je souhaite
+        développer mes compétences dans le domaine
+        juridique et informatique.
+      </p>
+    </section>
   </body>
 </html>
